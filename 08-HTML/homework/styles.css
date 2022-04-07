@@ -1,0 +1,30 @@
+
+   #thirdDiv{
+       padding:50px;
+       width:500px;
+       height: 600px;
+       background-color: aquamarine;
+       border-color: blue;
+
+   }
+   .divclass{
+
+   }
+ #spanId{
+ margin: 50px;
+ font-size: 18px;
+
+ }
+h1{
+    color:blue;
+}
+img{
+    width:400px;
+}
+body{
+    height: 400px;
+    background-image: url("https://blogs.eltiempo.com/colombiador/wp-content/uploads/sites/595/2016/09/comida-colombiana.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+   }
